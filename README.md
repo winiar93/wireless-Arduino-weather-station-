@@ -1,6 +1,7 @@
 # wireless-Arduino-weather-station-
-Wireless Arduino weather station based on bme680
-with additional diy antenna its possible to achive 50m range 
+Wireless Arduino weather station based on bme680.
+
+With additional diy antenna its possible to achive 50m range 
 Cut 173mm copper wire and solder on 'ANT' pad rf module pcb.
 
 Used patrs:
